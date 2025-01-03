@@ -13,8 +13,7 @@ CookingAI is an intelligent recipe recommendation system that helps you discover
 ## Usage
 
 1. Run the application:
-    ```npm run dev
-    ```
+    ```npm run dev```
 2. Open your web browser and go to `http://localhost:5173` to start using CookingAI.
 
 ## Contributing
